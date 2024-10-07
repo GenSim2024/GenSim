@@ -145,9 +145,7 @@ nohup.output
 
 **/tmp*.py
 .vscode/
-nohup.out
 *_all_*.json
-exp*/
 llm_tuning/datasets/ori_data/*
 **/*saves
 *.pid
