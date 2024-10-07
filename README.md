@@ -15,11 +15,11 @@ With the rapid advancement of large language models (LLMs), recent years have wi
 
 ## 1. Platform Interface
 
-<!-- <p align="center">
+<p align="center">
   <img src="assets/platform.png" alt="The platform interface" width="100%">
   <br>
   <b>Figure 2</b>: The platform interface
-</p> -->
+</p>
 
 
 ## 2. Usage
